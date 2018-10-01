@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Degree in Economics, 1977"
+  course = "Degree in Economics"
   institution = "Faculdade de Economia do Porto"
   year = 1977
 
