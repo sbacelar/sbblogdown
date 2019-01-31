@@ -16,9 +16,10 @@ count = 10
 # List format.
 #   0 = Simple
 #   1 = Detailed
-list_format = 0
+#   2 = Stream
+list_format = 2
 
-# Exclude talks that are shown in the Selected Talks widget?
-exclude_selected = false
+# Exclude talks that are shown in the Featured Talks widget?
+exclude_featured = false
 +++
 
