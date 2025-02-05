@@ -1,77 +1,73 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on SB at down</title>
-    <link>/publication/</link>
+    <link>https://sergio-bacelar.netlify.app/publication/</link>
     <description>Recent content in Publications on SB at down</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://sergio-bacelar.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Metadata Common Vocabulary: a journey from a glossary to an ontology of statistical metadata, and back</title>
-      <link>/publication/2009-01-01_bacelar2009/</link>
+      <link>https://sergio-bacelar.netlify.app/publication/2009-01-01_bacelar2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2009-01-01_bacelar2009/</guid>
+      <guid>https://sergio-bacelar.netlify.app/publication/2009-01-01_bacelar2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolução da população e estrutura familiar na Região Norte nos últimos 15 anos: mudança e continuidade</title>
-      <link>/publication/2008-01-01_bacelar2008/</link>
+      <link>https://sergio-bacelar.netlify.app/publication/2008-01-01_bacelar2008/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2008-01-01_bacelar2008/</guid>
+      <guid>https://sergio-bacelar.netlify.app/publication/2008-01-01_bacelar2008/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Setenta anos: O Instituto Nacional de Estatística ao Serviço da Sociedade Portuguesa</title>
-      <link>/publication/2006-01-01_bacelar2006/</link>
+      <link>https://sergio-bacelar.netlify.app/publication/2006-01-01_bacelar2006/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2006-01-01_bacelar2006/</guid>
+      <guid>https://sergio-bacelar.netlify.app/publication/2006-01-01_bacelar2006/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ALEA: um contributo para a promoção da literacia estatística (análise de dados e ensino da estatística nas escolas secundárias)</title>
-      <link>/publication/2000-01-01_bacelar2000/</link>
+      <link>https://sergio-bacelar.netlify.app/publication/2000-01-01_bacelar2000/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2000-01-01_bacelar2000/</guid>
+      <guid>https://sergio-bacelar.netlify.app/publication/2000-01-01_bacelar2000/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Para uma sociologia da produção estatística: virtualidades duma leitura sintomática da informação estatística</title>
-      <link>/publication/1996-01-01_bacelar1996/</link>
+      <link>https://sergio-bacelar.netlify.app/publication/1996-01-01_bacelar1996/</link>
       <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
       
-      <guid>/publication/1996-01-01_bacelar1996/</guid>
+      <guid>https://sergio-bacelar.netlify.app/publication/1996-01-01_bacelar1996/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inventário municipal da Região Norte: breve apresentaçãoo de um instrumento de análise da vida local</title>
-      <link>/publication/1994-01-01_bacelar1994/</link>
+      <link>https://sergio-bacelar.netlify.app/publication/1994-01-01_bacelar1994/</link>
       <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
       
-      <guid>/publication/1994-01-01_bacelar1994/</guid>
+      <guid>https://sergio-bacelar.netlify.app/publication/1994-01-01_bacelar1994/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estagnação, litoralização e envelhecimento na região (1981-91): uma dinâmica com contrastes</title>
-      <link>/publication/1993-01-01_bacelar1993/</link>
+      <link>https://sergio-bacelar.netlify.app/publication/1993-01-01_bacelar1993/</link>
       <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
       
-      <guid>/publication/1993-01-01_bacelar1993/</guid>
+      <guid>https://sergio-bacelar.netlify.app/publication/1993-01-01_bacelar1993/</guid>
       <description></description>
     </item>
     
