@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SB at down on SB at down</title>
-    <link>https://sergio-bacelar.netlify.app/</link>
+    <link>https://sbdown.netlify.app/</link>
     <description>Recent content in SB at down on SB at down</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Overview</title>
-      <link>https://sergio-bacelar.netlify.app/tutorial/</link>
+      <link>https://sbdown.netlify.app/tutorial/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/tutorial/</guid>
+      <guid>https://sbdown.netlify.app/tutorial/</guid>
       <description>&lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Project or software documentation&lt;/strong&gt;&lt;/li&gt;
@@ -29,46 +29,46 @@
     
     <item>
       <title>Posts</title>
-      <link>https://sergio-bacelar.netlify.app/post/</link>
+      <link>https://sbdown.netlify.app/post/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/post/</guid>
+      <guid>https://sbdown.netlify.app/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://sergio-bacelar.netlify.app/publication/</link>
+      <link>https://sbdown.netlify.app/publication/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/publication/</guid>
+      <guid>https://sbdown.netlify.app/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://sergio-bacelar.netlify.app/talk/</link>
+      <link>https://sbdown.netlify.app/talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/talk/</guid>
+      <guid>https://sbdown.netlify.app/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://sergio-bacelar.netlify.app/project/</link>
+      <link>https://sbdown.netlify.app/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/project/</guid>
+      <guid>https://sbdown.netlify.app/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://sergio-bacelar.netlify.app/slides/</link>
+      <link>https://sbdown.netlify.app/slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/slides/</guid>
+      <guid>https://sbdown.netlify.app/slides/</guid>
       <description></description>
     </item>
     

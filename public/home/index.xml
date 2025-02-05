@@ -2,119 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on SB at down</title>
-    <link>https://sergio-bacelar.netlify.app/home/</link>
+    <link>https://sbdown.netlify.app/home/</link>
     <description>Recent content in Homes on SB at down</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0100</lastBuildDate><atom:link href="https://sergio-bacelar.netlify.app/home/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0100</lastBuildDate><atom:link href="https://sbdown.netlify.app/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://sergio-bacelar.netlify.app/home/hero_carousel/</link>
+      <link>https://sbdown.netlify.app/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/hero_carousel/</guid>
+      <guid>https://sbdown.netlify.app/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://sergio-bacelar.netlify.app/home/hero/</link>
+      <link>https://sbdown.netlify.app/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/hero/</guid>
+      <guid>https://sbdown.netlify.app/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a ugly complex site in under 10 minutes 🚀
 Latest release Star</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://sergio-bacelar.netlify.app/home/about/</link>
+      <link>https://sbdown.netlify.app/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/about/</guid>
+      <guid>https://sbdown.netlify.app/home/about/</guid>
       <description>Biography Sérgio is currently a PhD candidate of Complexity Sciences (FCUL-University of Lisbon/ISCTE-University Institute of Lisbon) and he has a degree in Economics by U. Porto and in Sociology by University Institute of Lisbon.
 He worked at the Department of Demographic and Social Statistics of Statistics Portugal where he was responsible for the production of the Well-being index of Portugal. He worked in Statistics Portugal since 1990, mainly on statistical metadata, regional statistics studies and official statistics dissemination.</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>https://sergio-bacelar.netlify.app/home/skills/</link>
+      <link>https://sbdown.netlify.app/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/skills/</guid>
+      <guid>https://sbdown.netlify.app/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://sergio-bacelar.netlify.app/home/experience/</link>
+      <link>https://sbdown.netlify.app/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/experience/</guid>
+      <guid>https://sbdown.netlify.app/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://sergio-bacelar.netlify.app/home/publications_selected/</link>
+      <link>https://sbdown.netlify.app/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/publications_selected/</guid>
+      <guid>https://sbdown.netlify.app/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://sergio-bacelar.netlify.app/home/publications/</link>
+      <link>https://sbdown.netlify.app/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/publications/</guid>
+      <guid>https://sbdown.netlify.app/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>https://sergio-bacelar.netlify.app/home/talks_selected/</link>
+      <link>https://sbdown.netlify.app/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/talks_selected/</guid>
+      <guid>https://sbdown.netlify.app/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://sergio-bacelar.netlify.app/home/talks/</link>
+      <link>https://sbdown.netlify.app/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/talks/</guid>
+      <guid>https://sbdown.netlify.app/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://sergio-bacelar.netlify.app/home/posts/</link>
+      <link>https://sbdown.netlify.app/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/posts/</guid>
+      <guid>https://sbdown.netlify.app/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://sergio-bacelar.netlify.app/home/projects/</link>
+      <link>https://sbdown.netlify.app/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/projects/</guid>
+      <guid>https://sbdown.netlify.app/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://sergio-bacelar.netlify.app/home/teaching/</link>
+      <link>https://sbdown.netlify.app/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/teaching/</guid>
+      <guid>https://sbdown.netlify.app/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 I am a teaching instructor for the following courses at University X:
  CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
@@ -122,28 +122,28 @@ I am a teaching instructor for the following courses at University X:
     
     <item>
       <title>Tags</title>
-      <link>https://sergio-bacelar.netlify.app/home/tags/</link>
+      <link>https://sbdown.netlify.app/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/tags/</guid>
+      <guid>https://sbdown.netlify.app/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://sergio-bacelar.netlify.app/home/search/</link>
+      <link>https://sbdown.netlify.app/home/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/search/</guid>
+      <guid>https://sbdown.netlify.app/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://sergio-bacelar.netlify.app/home/contact/</link>
+      <link>https://sbdown.netlify.app/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://sergio-bacelar.netlify.app/home/contact/</guid>
+      <guid>https://sbdown.netlify.app/home/contact/</guid>
       <description></description>
     </item>
     
